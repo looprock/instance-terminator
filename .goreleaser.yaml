@@ -1,3 +1,5 @@
 builds:
         - 
             main: ./cmd/main.go
+            goos:
+                    - linux
